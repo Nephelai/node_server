@@ -2,14 +2,14 @@
   "name": "meanstack",
   "version": "0.0.1",
   "dependencies": {
-    "express": "latest",
-    "morgan": "latest",
-    "compression": "latest",
     "body-parser": "latest",
-    "method-override": "latest",
+    "compression": "latest",
     "ejs": "latest",
+    "express": "latest",
     "express-session": "latest",
-    "mongoose": "latest"
+    "method-override": "latest",
+    "mongoose": "^5.1.6",
+    "morgan": "latest"
   },
   "main": "application.js",
   "scripts": {

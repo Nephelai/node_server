@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba55361-f7b1-4517-9298-3eb8eb1e79d7" name="Default" comment="" />
+    <list default="true" id="eba55361-f7b1-4517-9298-3eb8eb1e79d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/routes/index.server.routes.js" afterPath="$PROJECT_DIR$/app/routes/index.server.routes.js" />
+      <change beforePath="$PROJECT_DIR$/config/express.js" afterPath="$PROJECT_DIR$/config/express.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/builtin-modules.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/static.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/error-ex/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/error-ex/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/error-ex/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/error-ex/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/Gruntfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/lib/exit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/exit_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/10-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/10-stdout-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/10-stdout.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/100-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/100-stdout-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/100-stdout.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/1000-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/1000-stdout-stderr.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/1000-stdout.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/create-files.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/log-broken.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/log.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/old.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/changelog.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/common.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/glob.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host-info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-utf8/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-utf8/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-utf8/is-utf8.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-utf8/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/mode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/test/basic.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isexe/windows.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/extract_description.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/make_warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/normalize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/safe_format.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/typos.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/warning_messages.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pinkie-promise/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pinkie-promise/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pinkie-promise/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/example/async.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/example/sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/async.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/caller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/core.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/node-modules-paths.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/abc/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/faulty_basedir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/filter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/filter_sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/mock.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/mock_sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/xmodules/aaa/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/ymodules/aaa/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/aaa/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/ccc/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/bbb/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/ccc/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/nonstring.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/alt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/deeper/ref.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/ref.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/bar/node_modules/foo/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/doom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/quux.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/biz/node_modules/garply/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/biz/node_modules/garply/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/biz/node_modules/grux/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/biz/node_modules/tiv/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/cup.coffee" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/foo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.coffee" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/lib/other-lib.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/root.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/punycode/node_modules/punycode/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/quux/foo/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/without_basedir/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/without_basedir/node_modules/mymodule.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver_sync.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/subdirs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/subdirs/node_modules/a/b/c/x.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/subdirs/node_modules/a/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/scan.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-bom/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-bom/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-bom/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-bom/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +195,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -27,8 +219,8 @@
       <file leaf-file-name="express.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/express.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="399">
+              <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -44,18 +236,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.server.routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes/index.server.routes.js">
+      <file leaf-file-name="mongoose.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/mongoose.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -64,11 +246,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.server.routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/index.server.routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.server.controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/index.server.controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,7 +291,17 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cheshire_Blog" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/app/views/index.html" />
+        <option value="$PROJECT_DIR$/app/routes/index.server.routes.js" />
+        <option value="$PROJECT_DIR$/config/express.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -115,6 +339,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -155,12 +380,13 @@
             <path>
               <item name="node_server" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_server" type="462c0819:PsiDirectoryNode" />
-              <item name="Cheshire_Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_server" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_server" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_server" type="b2602c69:ProjectViewProjectNode" />
@@ -171,13 +397,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,12 +430,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529753906626</updated>
-      <workItem from="1529753909888" duration="170000" />
+      <workItem from="1529753909888" duration="1960000" />
+      <workItem from="1529759721325" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170000" />
+    <option name="totallyTimeSpent" value="2935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -217,21 +444,21 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -241,11 +468,32 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Cheshire_Blog" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -257,15 +505,15 @@
     <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/index.server.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="57">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -273,7 +521,59 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/index.server.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -281,15 +581,31 @@
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.server.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/index.server.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="399">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding />
         </state>
       </provider>
