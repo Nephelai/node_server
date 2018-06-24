@@ -4,4 +4,7 @@ module.exports = function (app) {
     app.get('/blog', function (req, res) {
        res.render('../views/index.html');
     });
+    app.get('/ob', function (req, res) {
+        res.render('../views/old_index.html');
+    });
 };
