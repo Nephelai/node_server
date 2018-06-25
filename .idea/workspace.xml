@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba55361-f7b1-4517-9298-3eb8eb1e79d7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/routes/index.server.routes.js" afterPath="$PROJECT_DIR$/app/routes/index.server.routes.js" />
-      <change beforePath="$PROJECT_DIR$/app/views/index.html" afterPath="$PROJECT_DIR$/app/views/index.html" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_banner.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_index.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_items.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_wrapper.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/env/development.js" afterPath="$PROJECT_DIR$/config/env/development.js" />
-      <change beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/public/css/noscript.css" afterPath="$PROJECT_DIR$/public/css/noscript.css" />
-      <change beforePath="$PROJECT_DIR$/public/img/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/fulls/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/thumbs/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/pic01.jpg" afterPath="$PROJECT_DIR$/public/img/pic01.jpg" />
-      <change beforePath="$PROJECT_DIR$/public/img/pic02.jpg" afterPath="$PROJECT_DIR$/public/img/pic02.jpg" />
-      <change beforePath="$PROJECT_DIR$/public/img/pic03.jpg" afterPath="$PROJECT_DIR$/public/img/pic03.jpg" />
-      <change beforePath="$PROJECT_DIR$/public/img/spotlight01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/spotlight02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/img/spotlight03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/public/sass/base/_page.scss" afterPath="$PROJECT_DIR$/public/sass/base/_page.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/base/_reset.scss" afterPath="$PROJECT_DIR$/public/sass/base/_reset.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/public/sass/base/_typography.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_actions.scss" afterPath="$PROJECT_DIR$/public/sass/components/_actions.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_box.scss" afterPath="$PROJECT_DIR$/public/sass/components/_box.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_button.scss" afterPath="$PROJECT_DIR$/public/sass/components/_button.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_form.scss" afterPath="$PROJECT_DIR$/public/sass/components/_form.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/public/sass/components/_icon.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_icons.scss" afterPath="$PROJECT_DIR$/public/sass/components/_icons.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_image.scss" afterPath="$PROJECT_DIR$/public/sass/components/_image.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_list.scss" afterPath="$PROJECT_DIR$/public/sass/components/_list.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/components/_table.scss" afterPath="$PROJECT_DIR$/public/sass/components/_table.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/public/sass/layout/_wrapper.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/public/sass/libs/_vars.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/main.scss" afterPath="$PROJECT_DIR$/public/sass/main.scss" />
-      <change beforePath="$PROJECT_DIR$/public/sass/noscript.scss" afterPath="$PROJECT_DIR$/public/sass/noscript.scss" />
-    </list>
+    <list default="true" id="eba55361-f7b1-4517-9298-3eb8eb1e79d7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -118,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="353" column="24" lean-forward="true" selection-start-line="353" selection-start-column="24" selection-end-line="353" selection-end-column="24" />
+            <state relative-caret-position="474">
+              <caret line="361" column="7" lean-forward="true" selection-start-line="361" selection-start-column="7" selection-end-line="361" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -149,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -299,8 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,6 +260,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,11 +298,12 @@
       <workItem from="1529753909888" duration="1960000" />
       <workItem from="1529759721325" duration="5860000" />
       <workItem from="1529827144705" duration="1410000" />
+      <workItem from="1529902211699" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9230000" />
+    <option name="totallyTimeSpent" value="9292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -414,8 +314,8 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -445,6 +345,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/env/development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.server.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -571,20 +519,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js" />
+    <entry file="file://$USER_HOME$/Desktop/html5up-story/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/app/views/old_index.html" />
     <entry file="file://$PROJECT_DIR$/public/css/noscript.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -763,15 +699,15 @@
     <entry file="file://$PROJECT_DIR$/app/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="353" column="24" lean-forward="true" selection-start-line="353" selection-start-column="24" selection-end-line="353" selection-end-column="24" />
+        <state relative-caret-position="474">
+          <caret line="361" column="7" lean-forward="true" selection-start-line="361" selection-start-column="7" selection-end-line="361" selection-end-column="7" />
           <folding />
         </state>
       </provider>
