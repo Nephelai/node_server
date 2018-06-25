@@ -35,6 +35,7 @@ module.exports = function () {
     require('../app/routes/users.server.routes')(app);
 
     app.use(express.static('./public'));
+    app.use(express.static('./app/views'));
 
     return app;
 };
